@@ -7,75 +7,34 @@
 ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-Welcome to my personal Power BI portfolio repository! Here you will find a collection of Power BI projects and dashboards that demonstrate my skills and expertise in data visualization, business intelligence, and analytics using Power BI.
+Bem-vindo ao meu portfólio pessoal do Power BI ! Nesse espaço você vai encontrar uma coleção de projetos construídos no Power BI, incluindo visualização de dados e dashboards, que buscam demonstrar meu desenvolvimento contínuo e experiência no tratamento, modelagem e visualização de dados, além de aplicações práticas e ferramentas de inteligência de negócios.
 
-## About Me
+## Sobre mim
+Me chamo Alvaro Silveira, e atuo hoje como analista de meio ambiente, mas ao longo de minha carreira e estudo, a análise de dados e construção de ferramentas de negócios se mostrou essencial. Desenvolvi no trabalho ferramentas para a análise de dados ambientais, monitoramento de indicadores chaves e cálculo de indicadores ambientais. 
 
 
+## [Projeto 1: Ferramenta para o cálculo do inventário de emissões e indicadores de sustentabilidade]()
 
-## [Project 1: Sales Dashboard]()
-
-Consumable Sales Dashboard, a powerful and intuitive data visualization tool built using Power BI. This dashboard offers a comprehensive view of sales data for consumable products, allowing you to quickly and easily analyze performance and identify trends.
+A atual preocupação com as mudanças climáticas tem influenciado na busca de soluções que permitam cálcular, analisar e interpretar as emissões de gases do efeito estufa (GEE) de um negócio. A ferramenta a seguir foi construída no Power BI com esse objetivo. Através de um estudo de caso na indústria de bebidas, os dados de consumo de insumos industriais de fontes de gases GEE são modelados para estimar as emissões da companhia e calcular os indicadores de sustentabilidade associados.
+.
 ## Preview
 
 ![sales]()
 
-## [Project 2: Superstore Sales Dashboard with Streamlit](https://github.com/tushar2704/Superstore-Sales-Dashboard-with-Streamlit)
-
-Superstore Sales with Streamlit is a data visualization and analysis project that uses the Streamlit framework to create an interactive web application for exploring and analyzing sales data from a superstore. This project aims to provide an easy-to-use interface for users to gain insights into sales trends, Sales performance, product performance, Shippin analysis and Location analysis. 
-###### Deployment [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tushar2704-superstore-dashboard.streamlit.app/)
-
-![3dash]()
 
 
 
-
-## [Project 3: Human Resource Dashboard](https://www.novypro.com/project/human-resource-dashboard-2)
-
-### Preview
-
-![sales1](https://github.com/tushar2704/tushar2704-GIFs/assets/66141195/90ce1d58-66a4-4957-b58c-bd12911afdc0)
-
-
-## [Project 4: Sales Target Dashboard)](https://www.novypro.com/project/sales-target-dashboard)
-
-### Preview
-![sales target]()
-
-
-
-## [Project 5: Pizza Sales Analysis](https://github.com/tushar2704/Pizza-Sales-Analysis)
-
-Pizza Sales Analysis has a comprehensive year's worth of sales data from a fictitious pizza place. The dataset includes detailed information about each order, such as the date and time of purchase, the types of pizzas served, their sizes, quantities, prices.
-##### Preview
-![pizza4]()
-
-## [Project 6: Employee Distribution](https://github.com/tushar2704/Employee-Distribution)
-
-Exploring a treasure trove of insights and captivating visualizations drawn from a vast HR dataset covering 2000 to 2020, featuring over 22,000 records. Painstakingly curated and analyzed using PostgreSQL, this powerful dashboard showcases its findings through the elegance of Power BI. Unravel the secrets of the organization's workforce with answers to vital HR inquiries. Discover the gender and race/ethnicity breakdown, age distribution, headquarters vs. remote locations, average employment length for terminated employees, gender distribution across departments and job titles, job title distribution, highest turnover department, state-wise employee distribution, and changes in employee count over time based on hire and termination dates. Experience a profound understanding of employee tenures across departments. Employee-Distribution delivers valuable HR insights at your fingertips.
-
-![1](https://github.com/tushar2704/tushar2704-GIFs/assets/66141195/59e59305-5ab2-44bf-998d-6db6faf30c23)
-
-## [Project 7: Financial Analysis Dashboard](https://www.novypro.com/project/financial-analysis-dashboard-6)
-
-
-
-## Contact Information
+## Informações de contato
 
 
 
 
 
-## Author
-- [<ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>](https://www.tushar-aggarwal.com/)
-- <b>[LinkedIn]()</b>
-- <b>[Medium]()</b> 
-- <b>[Tushar-Aggarwal.com]()</b>
-- <b>[New Kaggle]()</b> 
+## Autor
+- [<ins><b>©2023 Alvaro Silveira. All rights reserved</b></ins>](https://alvarogarcia.netlify.app/about)
+- <b>[LinkedIn](www.linkedin.com/in/alvaro-silveira-62a770176)</b>
+
 
   
-## License
-Due to the extensive time invested in projects development and in consideration of privacy concerns, the some PBIX fils are currently not publicly accessible on GitHub. Should anyone have an interest in obtaining access to the code, please do not hesitate to contact me directly. Your understanding is greatly appreciated. Please check out my [NovyPro](https://www.novypro.com/profile_projects/tusharagg) profile. Thank you
-
- 
- 
+## Licença
+Por conta do tempo e conhecimento investido nesses projetos, parte dos arquivos PBIX não estão disponíveis publicamente no GITHUB. Caso tenha interesse em um dos projetos ou deseje trocar informações sobre como eles foram construídos, não hesite em entrar em contato. Obrigado !
