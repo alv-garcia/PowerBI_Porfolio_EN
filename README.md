@@ -31,7 +31,7 @@ A atual preocupação com as mudanças climáticas tem influenciado na busca de 
 
 ## Autor
 - [<ins><b>©2023 Alvaro Silveira. All rights reserved</b></ins>](https://alvarogarcia.netlify.app/about)
-- [LinkedIn](www.linkedin.com/in/alvaro-silveira-62a770176)
+- [LinkedIn](https://www.linkedin.com/in/alvaro-silveira-62a770176/)
 
 
   
