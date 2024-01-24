@@ -15,7 +15,9 @@ Me chamo Alvaro Silveira, e atuo hoje como analista de meio ambiente, mas ao lon
 ### [Projeto 1: Ferramenta para o cálculo do inventário de emissões e indicadores de sustentabilidade](https://app.powerbi.com/view?r=eyJrIjoiZmQzOWQ0NDUtYTVhMi00OTczLWFmY2ItMDQ4ZWE4YzVhYTU3IiwidCI6IjY0MTg4ZWMwLTc1MGItNDI1OS04M2U1LWNkYTFmNWIzMDg3MCJ9)
 
 A atual preocupação com as mudanças climáticas tem influenciado na busca de soluções que permitam cálcular, analisar e interpretar as emissões de gases do efeito estufa (GEE) de um negócio. A ferramenta a seguir foi construída no Power BI com esse objetivo. Através de um estudo de caso na indústria de bebidas, os dados de consumo de insumos industriais de fontes de gases GEE são modelados para estimar as emissões da companhia e calcular os indicadores de sustentabilidade associados.
-.
+
+**É possível acessar uma versão interativa do dashboard clicando no título do projeto.**
+
 #### Preview
 
 ![Overview](Overview.png)
