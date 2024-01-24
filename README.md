@@ -24,11 +24,11 @@ A atual preocupação com as mudanças climáticas tem influenciado na busca de 
 
 Na tela principal da ferramenta é possível acompanhar as emissões da companhia Gasosa que produz bebidas gaseificadas. Além das emissões, também temos a energia consumida em Gigajoules e indicadores de intensidade importante para a organização. Esses elementos são importantes na construção de indicadores e reportes de sustentabilidade.
 
-![Visão geral](Visão Geral.png)
+![Visão geral](VisãoGeral.png)
 
 #### Linha do tempo e desempenho
 
-![Linha do tempo](Linha do tempo - energia.png)
+![Linha do tempo](Linhadotempo_energia.png)
 
 Dentro da aba de linha do tempo, é possível compreender em maiores detalhes a evolução das emissões e consumo de energia da companhia Gasosa. As visualizações permitem também entender os principais componentes relacionados a esses indicadores, como as fontes de emissões e combsutíveis consumidos. 
 
@@ -38,7 +38,7 @@ Dentro da aba de linha do tempo, é possível compreender em maiores detalhes a 
 
 Um dos aspectos relacionado a gestão ESG é a transparência, e os diferentes reportes de sustentabilidade visam justamente alcançar esse objetivos. A aba do GHG Protocol apresenta um resumo das informações de emissões da organização necessárias para o preenchimento do sistema do Programa Brasileiro do GHG Protocol da FGV, simplificando o preenchimento por parte da empresa.
 
-![GHG PROTOCOL](GHG protocol.png)
+![GHG PROTOCOL](GHGprotocol.png)
 
 Esse projeto ainda se encontra em construção, os próximos passos envolvem a construção das abas relacionadas ao reporte dos indicadores de GRI associados a emissões e energia e do CDP Climate. Além disso, serão criadas abas específicas no detalhamento dos insumos mensais e uma aba bsucando facilitar a auditoria das informações existentes.
 
