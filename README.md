@@ -56,7 +56,7 @@ Esse projeto faz parte da formação de Power BI Analyst da DIO. O objetivo dest
 
 #### Preview
 
-![Overview](FinancialDio.png)
+![Overview]((https://github.com/alv-garcia/PowerBI_Portfolio/blob/fa41d2e2306e90a7c59d181dc961e43c07113fdf/Projeto%202/FinancialDio.png))
 
 
 ## Informações de contato
