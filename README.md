@@ -12,7 +12,7 @@ Me chamo Alvaro Silveira, e atuo hoje como analista de meio ambiente, mas ao lon
 
 ## Projetos
 **[Projeto 1 - Ferramenta de Emissões](https://github.com/alv-garcia/PowerBI_Portfolio/tree/main?tab=readme-ov-file#visao-geral)**<br>
-**[Usage Instructions]()**<br>
+**[Projeto 2 - Análise de vendas - DIO](https://github.com/alv-garcia/PowerBI_Portfolio?tab=readme-ov-file#projeto-2-an%C3%A1lise-de-vendas-e-lucro)**<br>
 
 
 
@@ -56,7 +56,7 @@ Esse projeto faz parte da formação de Power BI Analyst da DIO. O objetivo dest
 
 #### Preview
 
-![Overview](Financial_Dio.png)
+![Overview](Projeto 2/Financial_Dio.png)
 
 
 ## Informações de contato
