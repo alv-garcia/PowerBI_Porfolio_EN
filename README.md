@@ -11,7 +11,7 @@ Bem-vindo ao meu portfólio pessoal do Power BI ! Nesse espaço você vai encont
 Me chamo Alvaro Silveira, e atuo hoje como analista de meio ambiente, mas ao longo de minha carreira e estudo, a análise de dados e construção de ferramentas de negócios se mostrou essencial. Desenvolvi no trabalho ferramentas para a análise de dados ambientais, monitoramento de indicadores chaves e cálculo de indicadores ambientais. 
 
 ## Projetos
-**[Installation Instructions](#visao-geral)**<br>
+**[Projeto 1 - Ferramenta de Emissões](https://github.com/alv-garcia/PowerBI_Portfolio/tree/main?tab=readme-ov-file#visao-geral)**<br>
 **[Usage Instructions]()**<br>
 
 
@@ -47,6 +47,17 @@ Um dos aspectos relacionado a gestão ESG é a transparência, e os diferentes r
 ![GHG PROTOCOL](GHGprotocol.png)
 
 Esse projeto ainda se encontra em construção, os próximos passos envolvem a construção das abas relacionadas ao reporte dos indicadores de GRI associados a emissões e energia e do CDP Climate. Além disso, serão criadas abas específicas no detalhamento dos insumos mensais e uma aba bsucando facilitar a auditoria das informações existentes.
+
+### [Projeto 2: Análise de vendas e lucro](https://app.powerbi.com/view?r=eyJrIjoiNjM5YTJkOGYtZGZlYS00YTFhLThmY2UtODM3ZDY3MjVjM2IxIiwidCI6IjY0MTg4ZWMwLTc1MGItNDI1OS04M2U1LWNkYTFmNWIzMDg3MCJ9&pageName=ReportSection)
+
+Esse projeto faz parte da formação de Power BI Analyst da DIO. O objetivo deste projeto é analisar os dados de desempenho financeiro de uma sample de dados fornecida pela Microsoft e criar um quadro que possa ser utilizado para analisar o desempenho de diferentes produtos em múltiplos segmentos. Minha visão ao costruir esse relatório era aprofundar meus conhecimentos no design do relatório, buscando criar uma identidade visual simular a da plataforma de estudos da DIO.
+
+**É possível acessar uma versão interativa do dashboard clicando no título do projeto.**
+
+#### Preview
+
+![Overview](Financial_Dio.png)
+
 
 ## Informações de contato
 
