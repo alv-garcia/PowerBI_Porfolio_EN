@@ -13,7 +13,7 @@ Me chamo Alvaro Silveira, e atuo hoje como analista de meio ambiente, mas ao lon
 ## Projetos
 **[Projeto 1 - Ferramenta de Emissões](https://github.com/alv-garcia/PowerBI_Portfolio/tree/main?tab=readme-ov-file#visao-geral)**<br>
 **[Projeto 2 - Análise de vendas - DIO](https://github.com/alv-garcia/PowerBI_Portfolio?tab=readme-ov-file#projeto-2-an%C3%A1lise-de-vendas-e-lucro)**<br>
-
+**[Projeto 3 - Superstores Sales - Análise RFM]()**<br>
 
 
 ### [Projeto 1: Ferramenta para o cálculo do inventário de emissões e indicadores de sustentabilidade](https://app.powerbi.com/view?r=eyJrIjoiZmQzOWQ0NDUtYTVhMi00OTczLWFmY2ItMDQ4ZWE4YzVhYTU3IiwidCI6IjY0MTg4ZWMwLTc1MGItNDI1OS04M2U1LWNkYTFmNWIzMDg3MCJ9)
@@ -57,6 +57,15 @@ Esse projeto faz parte da formação de Power BI Analyst da DIO. O objetivo dest
 #### Preview
 
 ![Overview](Financial_Dio.png)
+
+### [Projeto 3: Superstore Sales - Análise RFM]([https://app.powerbi.com/view?r=eyJrIjoiZmQzOWQ0NDUtYTVhMi00OTczLWFmY2ItMDQ4ZWE4YzVhYTU3IiwidCI6IjY0MTg4ZWMwLTc1MGItNDI1OS04M2U1LWNkYTFmNWIzMDg3MCJ9](https://app.powerbi.com/view?r=eyJrIjoiYmRlMmJjNGEtMTVjZC00MjYyLThkYTktOTk2NmFhZTQ0Y2UxIiwidCI6IjY0MTg4ZWMwLTc1MGItNDI1OS04M2U1LWNkYTFmNWIzMDg3MCJ9))
+
+
+![Executivo](RFM/executivo01.png)
+
+Esse projeto consiste em uma ferramenta de negócios capaz de oferecer uma visão personalizada para que diferentes atores dentro de uma  organização possam buscar insights valiosos na tomada de decisões estratégicas e operacionais. A ferramenta utiliza como base de dados o conjunto [Superstore Sales](https://www.kaggle.com/datasets/bhanupratapbiswas/superstore-sales) disponível no Kaggle.
+
+Através da análise RFM, a ferramenta segmenta os clientes com base em três critérios chave: Recência (última compra), Frequência (compras regulares) e Valor Monetário (valor médio das compras). Essa segmentação permite a criação de estratégias personalizadas para cada grupo de clientes, otimizando as ações de marketing e fidelização, e impulsionando a rentabilidade da empresa.
 
 
 ## Informações de contato
