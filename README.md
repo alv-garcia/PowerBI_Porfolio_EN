@@ -13,7 +13,7 @@ Me chamo Alvaro Silveira, e atuo hoje como analista de meio ambiente, mas ao lon
 ## Projetos
 **[Projeto 1 - Ferramenta de Emissões](https://github.com/alv-garcia/PowerBI_Portfolio/tree/main?tab=readme-ov-file#visao-geral)**<br>
 **[Projeto 2 - Análise de vendas - DIO](https://github.com/alv-garcia/PowerBI_Portfolio?tab=readme-ov-file#projeto-2-an%C3%A1lise-de-vendas-e-lucro)**<br>
-**[Projeto 3 - Superstores Sales - Análise RFM]()**<br>
+**[Projeto 3 - Superstores Sales - Análise RFM](https://github.com/alv-garcia/PowerBI_Portfolio?tab=readme-ov-file#projeto-3-superstore-sales---an%C3%A1lise-rfm)**<br>
 
 
 ### [Projeto 1: Ferramenta para o cálculo do inventário de emissões e indicadores de sustentabilidade](https://app.powerbi.com/view?r=eyJrIjoiZmQzOWQ0NDUtYTVhMi00OTczLWFmY2ItMDQ4ZWE4YzVhYTU3IiwidCI6IjY0MTg4ZWMwLTc1MGItNDI1OS04M2U1LWNkYTFmNWIzMDg3MCJ9)
@@ -58,14 +58,47 @@ Esse projeto faz parte da formação de Power BI Analyst da DIO. O objetivo dest
 
 ![Overview](Financial_Dio.png)
 
-### [Projeto 3: Superstore Sales - Análise RFM]([https://app.powerbi.com/view?r=eyJrIjoiZmQzOWQ0NDUtYTVhMi00OTczLWFmY2ItMDQ4ZWE4YzVhYTU3IiwidCI6IjY0MTg4ZWMwLTc1MGItNDI1OS04M2U1LWNkYTFmNWIzMDg3MCJ9](https://app.powerbi.com/view?r=eyJrIjoiYmRlMmJjNGEtMTVjZC00MjYyLThkYTktOTk2NmFhZTQ0Y2UxIiwidCI6IjY0MTg4ZWMwLTc1MGItNDI1OS04M2U1LWNkYTFmNWIzMDg3MCJ9))
+### [Projeto 3: Superstore Sales - Análise RFM](https://app.powerbi.com/view?r=eyJrIjoiYmRlMmJjNGEtMTVjZC00MjYyLThkYTktOTk2NmFhZTQ0Y2UxIiwidCI6IjY0MTg4ZWMwLTc1MGItNDI1OS04M2U1LWNkYTFmNWIzMDg3MCJ9)
 
 
-![Executivo](RFM/executivo01.png)
+
 
 Esse projeto consiste em uma ferramenta de negócios capaz de oferecer uma visão personalizada para que diferentes atores dentro de uma  organização possam buscar insights valiosos na tomada de decisões estratégicas e operacionais. A ferramenta utiliza como base de dados o conjunto [Superstore Sales](https://www.kaggle.com/datasets/bhanupratapbiswas/superstore-sales) disponível no Kaggle.
 
 Através da análise RFM, a ferramenta segmenta os clientes com base em três critérios chave: Recência (última compra), Frequência (compras regulares) e Valor Monetário (valor médio das compras). Essa segmentação permite a criação de estratégias personalizadas para cada grupo de clientes, otimizando as ações de marketing e fidelização, e impulsionando a rentabilidade da empresa.
+
+![Executivo](RFM/executivo01.png)
+
+O sumário executivo apresenta os principais indicadores de negócio e um panorama abrangente do desempenho das vendas por categoria de produto. Essa visão holística permite que a alta gerência identifique rapidamente tendências e oportunidades, definindo diretrizes estratégicas para o crescimento da empresa.
+
+![Executivo02](RFM/executivo02.png)
+
+A ferramenta oferece um nível de detalhamento mais granular na seção operacional, permitindo que os gerentes monitorem o desempenho das vendas entre categorias e ao longo do tempo. Essa visão granular facilita a identificação de picos e quedas nas vendas, possibilitando a investigação das causas subjacentes e a implementação de ações corretivas eficazes. Além disso, existe uma subseção voltada para a previsão de vendas futuras que permite um planejamento da organização para os próximos meses.
+
+![Operacional](RFM/operacional01.png)
+
+![Previsao](RFM/previsao.png)
+
+Essa ferramenta permite identificar consumidores que tem maior probabilidade de responder a uma nova oferta, àqueles que precisam receber maior  atenção, àqueles que são fiéis compradores e outros que acabaram de comprar e devem ser conquistados.
+
+![RFM01](RFM/RFM01.png)
+Através do método RFM é possível traçar estratégias específicas para cada grupo, de forma a aumentar a efetividade das ações do negócio. Esse método se baseia em três fatores:
+
+1. Recência ( Recency)
+    
+    Essa fator busca medir o quão recente foi a última compra de cada cliente.
+    
+2. Frequência ( Frequency )
+    
+    A frequência avalia a regularidade com que um cliente faz pedidos no seu negócio.
+    
+3. Valor Monetário (Monetary)
+    
+    O fator monetário apresenta uma medida do quanto seu consumidor costuma investir em suas compras.
+
+![RFM02](RFM/RFM02.png)
+
+A partir das medidas criadas para cada um desses fatores, são determinadas notas para estes com base em seu desempenho em relação a todo o grupo. Essas notas permitem a classificação dos consumidores dentro de cada categoria prevista pelo método RFM.
 
 
 ## Informações de contato
