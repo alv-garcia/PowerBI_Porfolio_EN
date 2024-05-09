@@ -5,48 +5,62 @@
 ![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-Bem-vindo ao meu portfólio pessoal do Power BI ! Nesse espaço você vai encontrar uma coleção de projetos construídos no Power BI, incluindo visualizações de dados e dashboards. Esses projetos apresentam soluções no tratamento, modelagem e visualização de dados, além de aplicações práticas e ferramentas de inteligência de negócios.
+## Welcome to my personal Power BI portfolio!
+In this space, you will find a collection of projects built in Power BI, including data visualizations and dashboards. These projects present solutions in data treatment, modeling, and visualization, as well as practical applications and business intelligence tools.
 
-## Sobre mim
-Me chamo Alvaro Silveira, e atuo hoje como analista de meio ambiente, mas ao longo de minha carreira e estudo, a análise de dados e construção de ferramentas de negócios se mostrou essencial. Desenvolvi no trabalho ferramentas para a análise de dados ambientais, monitoramento de indicadores chaves e cálculo de indicadores ambientais. 
+## About Me
+My name is Alvaro Silveira, and I currently work as an environmental analyst, but throughout my career and studies, data analysis and business tool building have proven essential. I have developed tools for environmental data analysis, monitoring key indicators, and calculating environmental indicators.
 
-## Projetos
-**[Projeto 1 - Ferramenta de Emissões](https://github.com/alv-garcia/PowerBI_Portfolio/tree/main?tab=readme-ov-file#visao-geral)**<br>
-**[Projeto 2 - Análise de vendas - DIO](https://github.com/alv-garcia/PowerBI_Portfolio?tab=readme-ov-file#projeto-2-an%C3%A1lise-de-vendas-e-lucro)**<br>
-**[Projeto 3 - Superstores Sales - Análise RFM](https://github.com/alv-garcia/PowerBI_Portfolio?tab=readme-ov-file#projeto-3-superstore-sales---an%C3%A1lise-rfm)**<br>
+## Projects
+**[Projeto 1 - Emissions and sustainability tool](https://github.com/alv-garcia/PowerBI_Portfolio/tree/main?tab=readme-ov-file#visao-geral)**<br>
+**[Projeto 2 - uperstores Sales - RFM Analysis](https://github.com/alv-garcia/PowerBI_Portfolio?tab=readme-ov-file#projeto-3-superstore-sales---an%C3%A1lise-rfm)**<br>
 
 
-### [Projeto 1: Ferramenta para o cálculo do inventário de emissões e indicadores de sustentabilidade](https://app.powerbi.com/view?r=eyJrIjoiZmQzOWQ0NDUtYTVhMi00OTczLWFmY2ItMDQ4ZWE4YzVhYTU3IiwidCI6IjY0MTg4ZWMwLTc1MGItNDI1OS04M2U1LWNkYTFmNWIzMDg3MCJ9)
+### [Project 1: Emissions Inventory and Sustainability Indicators Tool](https://app.powerbi.com/view?r=eyJrIjoiZmQzOWQ0NDUtYTVhMi00OTczLWFmY2ItMDQ4ZWE4YzVhYTU3IiwidCI6IjY0MTg4ZWMwLTc1MGItNDI1OS04M2U1LWNkYTFmNWIzMDg3MCJ9)
 
-A atual preocupação com as mudanças climáticas tem influenciado na busca de soluções que permitam cálcular, analisar e interpretar as emissões de gases do efeito estufa (GEE) de um negócio. A ferramenta a seguir foi construída no Power BI com esse objetivo. Através de um estudo de caso na indústria de bebidas, os dados de consumo de insumos industriais de fontes de gases GEE são modelados para estimar as emissões da companhia e calcular os indicadores de sustentabilidade associados.
 
-**É possível acessar uma versão interativa do dashboard clicando no título do projeto.**
+### Power BI Dashboard for Greenhouse Gas Emissions Calculation and Analysis in the Beverage Industry
+#### Introduction
+
+The growing concern over climate change has driven organizations to seek solutions for calculating, analyzing, and interpreting their greenhouse gas (GHG) emissions. This Power BI dashboard addresses this need by providing a comprehensive tool for businesses in the beverage industry to track, measure, and report their GHG emissions.
+
+#### Case Study: Gasosa Beverage Company
+
+The dashboard utilizes a case study of Gasosa, a beverage company, to demonstrate its capabilities. The tool models data on the company's industrial input consumption from GHG emission sources to estimate its emissions and calculate associated sustainability indicators.
+
+**An interactive version of the dashboard can be accessed by clicking on the project title.**
 
 #### Preview
 
 ![Overview](Overview.png)
 
-#### Visão Geral
+#### Overview
 
-Na tela principal da ferramenta é possível acompanhar as emissões da companhia Gasosa que produz bebidas gaseificadas. Além das emissões, também temos a energia consumida em Gigajoules e indicadores de intensidade importante para a organização. Esses elementos são importantes na construção de indicadores e reportes de sustentabilidade.
+The dashboard's main screen provides an overview of Gasosa's emissions, energy consumption in gigajoules, and key intensity indicators. These elements are crucial for building sustainability indicators and reports
 
 ![Visão geral](VisãoGeral.png)
 
-#### Linha do tempo e desempenho
+#### Timeline and Performance
 
 ![Linha do tempo](Linhadotempo_energia.png)
 
-Dentro da aba de linha do tempo, é possível compreender em maiores detalhes a evolução das emissões e consumo de energia da companhia Gasosa. As visualizações permitem também entender os principais componentes relacionados a esses indicadores, como as fontes de emissões e combsutíveis consumidos. 
+The timeline tab delves into the evolution of Gasosa's emissions and energy consumption. It allows users to understand the key components influencing these indicators, such as emission sources and consumed fuels.
 
 ![Desempenho](Desempenho.png)
 
 #### GHG PROTOCOL
 
-Um dos aspectos relacionado a gestão ESG é a transparência, e os diferentes reportes de sustentabilidade visam justamente alcançar esse objetivos. A aba do GHG Protocol apresenta um resumo das informações de emissões da organização necessárias para o preenchimento do sistema do Programa Brasileiro do GHG Protocol da FGV, simplificando o preenchimento por parte da empresa.
+Transparency is a crucial aspect of ESG management, and sustainability reports aim to achieve this objective.expand_more The GHG Protocol tab presents a summary of the organization's emission information required for the GHG Protocol Brazilian Program system of FGV, simplifying the company's reporting process.
 
 ![GHG PROTOCOL](GHGprotocol.png)
 
-Esse projeto ainda se encontra em construção, os próximos passos envolvem a construção das abas relacionadas ao reporte dos indicadores de GRI associados a emissões e energia e do CDP Climate. Além disso, serão criadas abas específicas no detalhamento dos insumos mensais e uma aba bsucando facilitar a auditoria das informações existentes.
+#### Future Enhancements
+
+The project is still under development, with the following enhancements planned:
+
+- GRI and CDP Climate Reporting: Dedicated tabs for GRI and CDP Climate emission and energy indicator reporting.
+- Monthly Input Detailing: Specific tabs for detailed monthly input breakdown.
+- Information Audit Facilitation: A tab designed to facilitate the auditing of existing information.
 
 ### [Projeto 2: Análise de vendas e lucro](https://app.powerbi.com/view?r=eyJrIjoiNjM5YTJkOGYtZGZlYS00YTFhLThmY2UtODM3ZDY3MjVjM2IxIiwidCI6IjY0MTg4ZWMwLTc1MGItNDI1OS04M2U1LWNkYTFmNWIzMDg3MCJ9&pageName=ReportSection)
 
