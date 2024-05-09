@@ -1,4 +1,4 @@
-# Power BI Portfólio de Projetos
+# Power BI Project Portfolio
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![PPT](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![MS OFFICE](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
@@ -13,11 +13,10 @@ My name is Alvaro Silveira, and I currently work as an environmental analyst, bu
 
 ## Projects
 **[Projeto 1 - Emissions and sustainability tool](https://github.com/alv-garcia/PowerBI_Portfolio/tree/main?tab=readme-ov-file#visao-geral)**<br>
-**[Projeto 2 - uperstores Sales - RFM Analysis](https://github.com/alv-garcia/PowerBI_Portfolio?tab=readme-ov-file#projeto-3-superstore-sales---an%C3%A1lise-rfm)**<br>
+**[Projeto 2 - Superstores Sales - RFM Analysis](https://github.com/alv-garcia/PowerBI_Portfolio?tab=readme-ov-file#projeto-3-superstore-sales---an%C3%A1lise-rfm)**<br>
 
 
-### [Project 1: Emissions Inventory and Sustainability Indicators Tool](https://app.powerbi.com/view?r=eyJrIjoiZmQzOWQ0NDUtYTVhMi00OTczLWFmY2ItMDQ4ZWE4YzVhYTU3IiwidCI6IjY0MTg4ZWMwLTc1MGItNDI1OS04M2U1LWNkYTFmNWIzMDg3MCJ9)
-
+## [Project 1: Emissions Inventory and Sustainability Indicators Tool](https://app.powerbi.com/view?r=eyJrIjoiZmQzOWQ0NDUtYTVhMi00OTczLWFmY2ItMDQ4ZWE4YzVhYTU3IiwidCI6IjY0MTg4ZWMwLTc1MGItNDI1OS04M2U1LWNkYTFmNWIzMDg3MCJ9)
 
 ### Power BI Dashboard for Greenhouse Gas Emissions Calculation and Analysis in the Beverage Industry
 #### Introduction
@@ -62,32 +61,28 @@ The project is still under development, with the following enhancements planned:
 - Monthly Input Detailing: Specific tabs for detailed monthly input breakdown.
 - Information Audit Facilitation: A tab designed to facilitate the auditing of existing information.
 
-### [Projeto 2: Análise de vendas e lucro](https://app.powerbi.com/view?r=eyJrIjoiNjM5YTJkOGYtZGZlYS00YTFhLThmY2UtODM3ZDY3MjVjM2IxIiwidCI6IjY0MTg4ZWMwLTc1MGItNDI1OS04M2U1LWNkYTFmNWIzMDg3MCJ9&pageName=ReportSection)
-
-Esse projeto faz parte da formação de Power BI Analyst da DIO. O objetivo deste projeto é analisar os dados de desempenho financeiro de uma sample de dados fornecida pela Microsoft e criar um quadro que possa ser utilizado para analisar o desempenho de diferentes produtos em múltiplos segmentos. Minha visão ao costruir esse relatório era aprofundar meus conhecimentos no design do relatório, buscando criar uma identidade visual simular a da plataforma de estudos da DIO.
-
-**É possível acessar uma versão interativa do dashboard clicando no título do projeto.**
-
-#### Preview
-
-![Overview](Financial_Dio.png)
-
-### [Projeto 3: Superstore Sales - Análise RFM](https://app.powerbi.com/view?r=eyJrIjoiYmRlMmJjNGEtMTVjZC00MjYyLThkYTktOTk2NmFhZTQ0Y2UxIiwidCI6IjY0MTg4ZWMwLTc1MGItNDI1OS04M2U1LWNkYTFmNWIzMDg3MCJ9)
 
 
+## [Projeto 2 - Superstores Sales - RFM Analysis](https://app.powerbi.com/view?r=eyJrIjoiYmRlMmJjNGEtMTVjZC00MjYyLThkYTktOTk2NmFhZTQ0Y2UxIiwidCI6IjY0MTg4ZWMwLTc1MGItNDI1OS04M2U1LWNkYTFmNWIzMDg3MCJ9)
 
+### Power BI Dashboard for Customer Segmentation and Marketing Strategies Using RFM Analysis
+#### Introduction
 
-Esse projeto consiste em uma ferramenta de negócios capaz de oferecer uma visão personalizada para que diferentes atores dentro de uma  organização possam buscar insights valiosos na tomada de decisões estratégicas e operacionais. A ferramenta utiliza como base de dados o conjunto [Superstore Sales](https://www.kaggle.com/datasets/bhanupratapbiswas/superstore-sales) disponível no Kaggle.
+In today's competitive business landscape, understanding and effectively managing customer relationships is crucial for success. This Power BI dashboard utilizes the RFM (Recency, Frequency, Monetary) analysis method to segment customers based on their purchase behavior, enabling businesses to develop targeted marketing strategies and enhance customer loyalty. The dashboard utilizes the [Superstore Sales] (https://www.kaggle.com/datasets/bhanupratapbiswas/superstore-sales) dataset from Kaggle, a comprehensive dataset containing sales transactions for a fictitious retail company.
 
-Através da análise RFM, a ferramenta segmenta os clientes com base em três critérios chave: Recência (última compra), Frequência (compras regulares) e Valor Monetário (valor médio das compras). Essa segmentação permite a criação de estratégias personalizadas para cada grupo de clientes, otimizando as ações de marketing e fidelização, e impulsionando a rentabilidade da empresa.
+Through RFM analysis, the tool segments customers based on three key criteria: Recency (last purchase), Frequency (regular purchases) and Monetary Value (average value of purchases). This segmentation allows the creation of personalized strategies for each group of customers, optimizing marketing and loyalty actions, and boosting the company's profitability.
 
 ![Executivo](RFM/executivo01.png)
 
-O sumário executivo apresenta os principais indicadores de negócio e um panorama abrangente do desempenho das vendas por categoria de produto. Essa visão holística permite que a alta gerência identifique rapidamente tendências e oportunidades, definindo diretrizes estratégicas para o crescimento da empresa.
+This executive summary provides a comprehensive overview of sales performance and key business indicators. The insights and recommendations presented serve as a valuable guide for the company's leadership team to make informed strategic decisions that drive sustainable growth and profitability.
 
 ![Executivo02](RFM/executivo02.png)
 
-A ferramenta oferece um nível de detalhamento mais granular na seção operacional, permitindo que os gerentes monitorem o desempenho das vendas entre categorias e ao longo do tempo. Essa visão granular facilita a identificação de picos e quedas nas vendas, possibilitando a investigação das causas subjacentes e a implementação de ações corretivas eficazes. Além disso, existe uma subseção voltada para a previsão de vendas futuras que permite um planejamento da organização para os próximos meses.
+The operational section of the dashboard provides a granular view of sales performance across product categories and over time. This detailed analysis enables managers to:
+
+- Identify trends and patterns: Track sales trends by category and period to identify areas of growth, decline, or stagnation.
+- Pinpoint performance outliers: Uncover sudden spikes or dips in sales to investigate underlying causes and implement corrective actions.
+- Analyze seasonal patterns: Understand the impact of seasonality on sales performance to optimize marketing and sales strategies.
 
 ![Operacional](RFM/operacional01.png)
 
