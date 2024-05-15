@@ -88,36 +88,36 @@ The operational section of the dashboard provides a granular view of sales perfo
 
 ![Previsao](RFM/previsao.png)
 
-Essa ferramenta permite identificar consumidores que tem maior probabilidade de responder a uma nova oferta, àqueles que precisam receber maior  atenção, àqueles que são fiéis compradores e outros que acabaram de comprar e devem ser conquistados.
+This tool allows you to identify consumers who are most likely to respond to a new offer, consumers who need more attention, loyal customers, and customers who have just made a purchase and should be nurtured.
 
 ![RFM01](RFM/RFM01.png)
-Através do método RFM é possível traçar estratégias específicas para cada grupo, de forma a aumentar a efetividade das ações do negócio. Esse método se baseia em três fatores:
+The RFM method, a customer segmentation technique based on Recency, Frequency, and Monetary Value, empowers businesses to craft targeted strategies that enhance campaign effectiveness and drive customer engagement. By analyzing these three key factors, businesses can gain valuable insights into customer behavior and tailor their marketing efforts accordingly.
 
-1. Recência ( Recency)
-    
-    Essa fator busca medir o quão recente foi a última compra de cada cliente.
-    
-2. Frequência ( Frequency )
-    
-    A frequência avalia a regularidade com que um cliente faz pedidos no seu negócio.
-    
-3. Valor Monetário (Monetary)
-    
-    O fator monetário apresenta uma medida do quanto seu consumidor costuma investir em suas compras.
+1. Recency: Understanding Purchase Patterns
+
+Recency measures the time elapsed since a customer's last purchase. This metric is crucial for identifying customers who have made recent purchases and those who have become inactive. By understanding recency patterns, businesses can prioritize re-engagement campaigns for lapsed customers and nurture relationships with recently acquired ones.
+
+2. Frequency: Uncovering Purchase Habits
+
+Frequency gauges the regularity of a customer's purchases. This metric helps businesses identify loyal, high-frequency customers and those who make infrequent purchases. By analyzing frequency patterns, businesses can implement loyalty programs to reward repeat customers and targeted promotions to encourage more frequent purchases from less engaged ones.
+
+3. Monetary Value: Assessing Customer Lifetime Value
+
+Monetary Value measures the average amount a customer spends per transaction. This metric is essential for identifying high-value customers and those who make smaller purchases. By understanding monetary value patterns, businesses can focus their marketing efforts on high-value customers and implement strategies to increase the average order value of less valuable customers.
 
 ![RFM02](RFM/RFM02.png)
 
-A partir das medidas criadas para cada um desses fatores, são determinadas notas para estes com base em seu desempenho em relação a todo o grupo. Essas notas permitem a classificação dos consumidores dentro de cada categoria prevista pelo método RFM.
+Leveraging RFM for Strategic Segmentation
+
+By combining these three factors into a single RFM score, businesses can segment their customer base into distinct groups with shared characteristics. This segmentation enables businesses to develop targeted marketing campaigns that resonate with each segment, maximizing campaign effectiveness and return on investment.
+
+## Contact Information
 
 
-## Informações de contato
-
-
-## Autor
+## Author
 - [<ins><b>©2023 Alvaro Silveira. All rights reserved</b></ins>](https://alvarogarcia.netlify.app/about)
 - [LinkedIn](https://www.linkedin.com/in/alvaro-silveira-62a770176/)
 
 
-  
-## Licença
-Por conta do tempo e conhecimento investido nesses projetos, parte dos arquivos PBIX não estão disponíveis publicamente no GITHUB. Caso tenha interesse em um dos projetos ou deseje trocar informações sobre como eles foram construídos, não hesite em entrar em contato. Obrigado !
+## License
+Due to the time and knowledge invested in these projects, some of the PBIX files are not publicly available on GITHUB. If you are interested in one of the projects or would like to exchange information on how they were built, please do not hesitate to contact me. Thank you!
